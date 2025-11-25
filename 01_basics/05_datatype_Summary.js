@@ -5,7 +5,7 @@
 
 //---------> javascript dynamic type lang or static type lang?
 const score = 10;
-
+let change;
 
 
 //#Refrence (Non Primitive)
