@@ -1,0 +1,14 @@
+//you can check  returnType by write 
+console.log(typeof  NAME)
+
+
+--------------------------------------------
+#Memory Allocation 
+
+two type
+Stack(Primitive)-we have copy of it , value get change
+Heap(Non-Primitive)-we have refrnce of it 
+
+--------------------------------------------
+#String
+
